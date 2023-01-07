@@ -1,12 +1,10 @@
 # [Dashboard Vue3 Tailwind &mdash; Free Vue 3.x Tailwind 3.x Admin Dashboard with dark mode]
 
-[![version](https://img.shields.io/github/v/release/justboil/admin-one-vue-tailwind)]
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)]
 ### Tailwind 3.x Vue 3.x with Vite or Nuxt or Laravel
 
-[![Free Vue 3 Tailwind 3 admin dashboard with dark mode]]
+Free Vue 3 Tailwind 3 admin dashboard with dark mode
 
-[![Vue Tailwind white & dark styles]
+Vue Tailwind white & dark styles
 
 ### Tailwind 3.x Vue 3.x with Vite or Nuxt or Laravel
 
