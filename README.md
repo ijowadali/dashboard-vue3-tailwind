@@ -1,4 +1,4 @@
-# [Admin One &mdash; Free Vue 3.x Tailwind 3.x Admin Dashboard with dark mode]
+# [Dashboard Vue3 Tailwind &mdash; Free Vue 3.x Tailwind 3.x Admin Dashboard with dark mode]
 
 [![version](https://img.shields.io/github/v/release/justboil/admin-one-vue-tailwind)]
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)]
